@@ -1,7 +1,7 @@
 FROM alpine
 MAINTAINER Demetrius Johnson "contact@demetriusj.com"
 
-LABEL Description="VEVO's base slimmed down version of nodejs" Vendor="VEVO" Version="1.0"
+LABEL Description="Rebelizer base slimmed down version of nodejs" Vendor="Revelizer" Version="1.0"
 
 # To customize your docker
 ENV NODE_VERSION=5.1.0 \
